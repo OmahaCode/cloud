@@ -3,7 +3,7 @@ module.exports = {
     title: `Cloudinary API`,
     siteUrl: `https://cloudinaryapi.com`,
     description: `Cloudinary API - Documentation and tutorials.`,
-    author: `@gatsbyjs`,
+    author: `Neil K. Humphrey`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -25,7 +25,7 @@ module.exports = {
         background_color: `#2196f3`,
         theme_color: `#2196f3`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/cloudinary_api_icon.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
