@@ -38,7 +38,7 @@ const Layout = ({ children }) => {
         <footer>
           © {new Date().getFullYear()}, Built with
           {` `}
-          <a href="https://omahacode.com/how-to-speed-up-your-wordpress-site-with-a-free-cloudinary-image-cdn/" target="_blank">Cloudinary</a>
+          <a href="https://omahacode.com/cloudinary/" title="Cloudinary Tutorials." target="_blank">Cloudinary</a>
         </footer>
       </div>
     </>
