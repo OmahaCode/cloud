@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Cloudinary API`,
+    siteTitleShort: `Cloudinary API`,
     siteUrl: `https://cloudinaryapi.com`,
     description: `Cloudinary API - Documentation and tutorials.`,
     author: `Neil K. Humphrey`,
