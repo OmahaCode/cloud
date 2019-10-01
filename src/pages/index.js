@@ -10,7 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>Cloudinary Developer API's</h1>
     <p>Learn how to use Cloudinary to serve images and video.</p>
-    <p>Now go build something great.</p>
+    <h2>Cloudinary MDE</h2>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
