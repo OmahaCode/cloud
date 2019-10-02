@@ -58,3 +58,5 @@ plugins: [
     },
   },
 ]
+
+plugins: [`gatsby-plugin-netlify-cms`]
