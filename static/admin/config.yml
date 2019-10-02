@@ -9,13 +9,13 @@ publish_mode: editorial_workflow
 #   name: github
 #   repo: OmahaCode/cloud
 
-media_folder: src/images
-public_folder: src/images/uploads
+media_folder: "src/images"
+public_folder: "src/images/uploads"
 
 collections:
   - name: blog
     label: Blog
-    folder: src/pages/blog
+    folder: "src/pages/blog"
     create: true
     fields:
       - { name: path, label: Path }
